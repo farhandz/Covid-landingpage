@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+body {
+    background-color: #FFF8F8
+}
+
+.icon {
+    width: 170px
+}
+
+.tbl {
+    border-radius: 100px;
+}
+
+.asw {
+    margin: 70px auto
+}
+
+.ukrn {
+    width: 350px
+}
+.ukrn2 {
+    width: 280px
+}
+.ukrn3 {
+    width: 350px
+}
+.ukrn4 {
+    width: 350px
+}
+
+span {
+    font-size: 20px;
+    color: #FA615D
+}
+
+h4 {
+    color: #035755
+}
